@@ -1,1 +1,8 @@
 using git for dev prj
+
+making changes ob branch b1
+second
+ new branch
+
+wefewfwe
+
